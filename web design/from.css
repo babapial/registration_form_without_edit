@@ -1,0 +1,89 @@
+.heading1
+{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    font-size:45px;
+}
+
+.basic_information
+{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    font-size:45px;
+
+    
+    /*border: 1px solid rgb(204, 168, 168);*/
+}
+
+.basic_information label
+{
+    text-align: left;
+    margin-right: 60px;
+}
+
+.basic_information input {
+    /*padding: 15px 60px;*/
+
+    margin-bottom: 20px;
+    height: 50px;
+    width: 20vh;
+    font-size: 30px;
+    text-align: right;
+}
+
+.input
+{
+    width: 1300px;
+    text-align: right;
+    margin-left: 25%;
+}
+
+.innerinput
+{
+    text-align: right;
+}
+
+body {
+    
+    background-image: url("1.jpg");
+    background-repeat:no-repeat ;
+    background-position: center;
+    background-attachment : fixed;
+    background-size : cover;
+
+}
+
+.basic_information h2{
+    margin-top:100px;
+    margin-bottom:150px;
+}
+
+.submit
+{
+    text-align: center;
+    font-size:150px;
+}
+
+.gender
+{
+    text-align: center;
+    font-size:50px;
+
+}            
+
+
+
+
+
+
+
+
+
+
+  
